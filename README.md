@@ -4,3 +4,5 @@ This project refers to an exercise listed in the classic textbook _The Elements 
 <https://web.stanford.edu/~hastie/ElemStatLearn/>
 
 Our goal here is to treat it as a starting multiclass classification problem and practice the application of K-Nearest Neighbors approach and Logistic classification.
+
+The code and the bulk of the project can be found in the Jupyter notebook.
